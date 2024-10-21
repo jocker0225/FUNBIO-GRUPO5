@@ -1,13 +1,21 @@
 # ENTREGABLE 1
  ### *DEFINICIÓN DE TÉRMINOS CLAVES*
 -Lesión medular: Daño en la médula espinal de cualquier etiología, que puede originar parálisis en diferentes puntos y grados de extensión, pérdida de la sensibilidad y disfunción vesical, intestinal y sexual, además de importantes consecuencias psíquicas y socioeconómicas. [1]
+
 -Paraplejia: Afectación de los miembros inferiores en lesiones por debajo de la última vértebra cervical. [1]
+
 -Tetraplejia: Lesión medular cervical por encima de la última vértebra cervical que origina una pérdida de la función motora o sensitiva de los miembros inferiores y superiores, además de alteraciones respiratorias en distinto grado según la lesión. [1]
+
 -Laminectomía: Es una cirugía que crea espacio al quitar espolones óseos y tejidos asociados con artritis de la columna vertebral. Generalmente comprende la extracción de una pequeña pieza de la parte trasera (lámina) de los pequeños huesos de la columna vertebral (vértebras). La laminectomía agranda el canal espinal para aliviar la presión sobre la médula espinal o los nervios. La laminectomía suele hacerse como parte de la cirugía de descompresión. [4]
+
 -La fijación anterior de columna es una técnica bien implantada en la cirugía espinal. La presencia y necesidad de manipular los vasos principales, la aorta y las ilíacas y el riesgo hemorrágico que ello presenta hacen recomendable la colaboración de un cirujano vascular como cirujano de abordaje durante los procedimientos. [5]
+
 -Artrodesis cervical anterior. El abordaje cervical anterior a la columna cervical media, baja y torácica alta se utiliza ampliamente en neurocirugía para tratar patología degenerativa de la columna cervical (canales estrechos cervicales), hernia de disco cervical, lesiones tumorales de los cuerpos vertebrales (metástasis, tumores primarios), colecciones (abscesos prevertebrales), fracturas vertebrales (lesiones que involucran el cuerpo vertebral).[6]
+
 -Hematuria: La hematuria es la presencia de sangre en la orina. En la mayoría de los casos, la hematuria macroscópica no causa dolor ni ningún otro síntoma. Sin embargo, puede haber dolor en la vejiga o en la espalda si hay coágulos sanguíneos Enlace externo del NIH en la orina. Los coágulos de sangre pueden causar dolor al ser expulsados en la orina o si bloquean el flujo de esta. [7]
+
 -ITU por Pseudomona: Dentro de las infecciones nosocomiales más frecuentes asociadas a bacterias multi-resistentes y de peor pronóstico, se encuentran las producidas por Pseudomonas aeruginosa. Esta bacteria posee una alta capacidad de adaptación a condiciones adversas como por ejemplo el pH y la osmolaridad de la orina. Pseudomonas aeruginosa es uno de los principales patógenos implicados en infecciones nosocomiales y de pacientes inmunosuprimidos. Esta bacteria se considera un agente infeccioso oportunista que posee diversos mecanismos de patogenicidad, así como de resistencia a antimicrobianos, lo que contribuye a la dificultad en el tratamiento de estas infecciones. [8]
+
 -INR: El Instituto Nacional de Rehabilitación es una institución de salud especializada en Medicina Física y de Rehabilitación, que desarrolla investigación, normas, docencia y atención integral de alta complejidad, con enfoque humanístico y orientado hacia la inclusión de la persona con discapacidad. [9]
 
 
