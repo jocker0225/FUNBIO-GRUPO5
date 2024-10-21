@@ -9,7 +9,7 @@ En pacientes con una lesión medular a nivel C6-C7, como el de nuestro caso, la 
 
 > Definición del problema
 
-El problema específico que buscamos resolver es la recuperación de la funcionalidad de las manos y los dedos en un paciente con lesión medular C6-C7. Aunque el paciente conserva cierta movilidad en las muñecas, carece de la fuerza y el control necesarios para realizar movimientos esenciales como la pinza o el cierre completo de la mano. Estas funciones son fundamentales para que el paciente pueda realizar actividades cotidianas y mejorar su calidad de vida.
+Limitación de movilidad en los miembros superiores, particularmente en la acción de pinza trípode, que afecta la independencia funcional de un paciente con lesión medular cervical C6/C7.
 
 > Impacto
 
