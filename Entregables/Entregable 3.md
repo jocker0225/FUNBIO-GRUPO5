@@ -9,7 +9,7 @@ En pacientes con una lesión medular a nivel C6-C7, como el de nuestro caso, la 
 
 > Definición del problema
 
-Limitación de movilidad en los miembros superiores, particularmente en la acción de pinza trípode, que afecta la independencia funcional de un paciente con lesión medular cervical C6/C7.
+Limitación de movilidad en los miembros superiores, específicamente en la ejecución del agarre trípode (utilizando pulgar, índice y dedo medio), lo que compromete la independencia funcional de un paciente con lesión medular a nivel cervical C6/C7. Esta restricción no solo impacta actividades diarias que requieren destrezas de motricidad fina, sino que también dificulta su retorno a su trabajo como ingeniero, donde esta habilidad es esencial.
 
 > Impacto
 
@@ -24,25 +24,34 @@ El campo de la ingeniería biomédica tiene un papel clave en el desarrollo de t
 > ### *PROPUESTA DE SOLUCIÓN*
 > 1. Descripción de la solución:
 
-La solución que proponemos es un guante electrónico que permita realizar las acciones de agarrar algo, la pinza (para poder escribir), mantener estable la muñeca y poder realizar extensión y flexión de muñeca. Esto será gracias a la robotica y sensores que tendrá el guante que estarán posicionados en cada dedo.
-Esto permitirá a nuestro sujeto, que es abogado, poder realizar sus acciones diarias como escribir, leer o incluso tomar una taza de café.
+La solución que proponemos es un guante electrónico diseñado para ayudar a los pacientes con lesiones medulares a realizar acciones cotidianas, como agarrar objetos y escribir, especificamente el agarre el pinza ya que se considera el mas complicado de lograr. Este guante incorpora robótica y sensores estratégicamente ubicados en los dedos pulgar, índice y medio para facilitar el movimiento.
+
+El mecanismo de funcionamiento se basa en un sistema de poleas conectadas a un motor, que permite controlar el agarre de manera precisa. Además, el guante está equipado con sensores que registran la fuerza aplicada por el paciente, recopilando datos que se envían a una página web. Esto permite a los pacientes y profesionales de la salud monitorear el progreso en tiempo real.
+El guante estará conectado a un joystick mediante Bluetooth, que permitirá al usuario controlar el encendido y apagado del dispositivo, así como ajustar la cantidad de fuerza aplicada en el agarre. Esto ofrece una experiencia más personalizada y adaptada a las necesidades del paciente.
+
+Esta tecnología permitirá a nuestro sujeto, que es ingeniero, recuperar la capacidad de realizar actividades diarias, como escribir, leer o tomar una taza de café, promoviendo así una mayor independencia y calidad de vida
 
 > 2. Características del prototipo:
 
 El guante robótico propone con un diseño de satisfacer las necesidades autonomas de pacientes con movilidad reducida en la mano,  aquellos con lesiones medulares o las personas que perdieron la función motora, pacientes como el nuestro que quieran recuperar la mayor parte de su autonomia al hacer su vida cotidiana devuelta. 
-#### a. Estimulación Sensorial:
-El guante incluye sensores de presión distribuidos en las yemas de los dedos. Los sensores permiten al paciente sentir la cantidad de fuerza aplicada durante el agarre y soltar objetos, mejorando la conciencia de su propio movimiento y brindando una experiencia más natural durante la rehabilitación. Mejora la percepción táctil y la conciencia de la fuerza, lo que es crucial para el paciente.
+#### a. Fuerza ajustable:
+El guante permite al usuario modificar el nivel de asistencia en el agarre, adaptándose a diferentes tareas y necesidades. Esto proporciona un control preciso y una sensación más natural durante el uso.
 
 #### b. Ligereza y comodidad:
 El diseño liviano asegura que el paciente use el dispositivo durante varias horas, tanto para rehabilitación como para actividades cotidianas, sin generar fatiga muscular o incomodidad. Esenciales para promover el uso constante del guante, lo que es clave para un proceso de rehabilitación rapida.
 
+#### b. Retroalimentación del avance:
+Incorpora un sistema de retroalimentación que recopila datos sobre el rendimiento del paciente y su progreso en la rehabilitación. Esta información se envía a una plataforma en línea, permitiendo al usuario y a los profesionales de la salud evaluar y ajustar el proceso de rehabilitación de manera efectiva.
+
 > 3. Beneficios:
 
-Uno de los principales beneficios del guante robótico es que permite a los usuarios realizar movimientos precisos de agarre y manipulación de objetos.
-El guante robótico facilita la autonomía en las actividades diarias, al mejorar la funcionalidad de la mano, los pacientes pueden realizar tareas que antes eran inalcanzables o que requerían la asistencia de otra persona.
-A comparación de otras alternativas como son:
+Movimientos precisos: Uno de los principales beneficios del guante robótico es su capacidad para permitir a los usuarios realizar movimientos de agarre en pinza y manipulación de objetos con gran precisión. Esto facilita la interacción con el entorno y mejora la calidad de vida.
 
-En los métodos tradicionales de rehabilitación, los pacientes requieren de terapia física constante, lo que implica un alto costo y tiempo. El guante robótico permite que los usuarios realicen ejercicios de rehabilitación por su cuenta, disminuyendo la necesidad de asistencia constante.
+Fomento de la autonomía: Al mejorar la funcionalidad de la mano, el guante robótico promueve la autonomía en las actividades diarias. Los pacientes pueden realizar tareas que antes eran inalcanzables o que requerían la asistencia de otra persona, lo que les brinda una mayor independencia.
+
+Reducción de costos y tiempo de rehabilitación: A diferencia de los métodos tradicionales de rehabilitación, que requieren terapia física constante y pueden implicar altos costos y un compromiso de tiempo significativo, el guante robótico permite a los usuarios realizar ejercicios de rehabilitación de manera autónoma. Esto disminuye la necesidad de asistencia constante y optimiza el proceso de recuperación.
+
+Monitoreo lúdico del progreso: El sistema de retroalimentación del guante ofrece a los pacientes y al personal de salud una manera divertida y motivadora de conocer el progreso en la rehabilitación. Esto fomenta la práctica continua y ayuda a mantener la motivación del paciente.
 
 > 4. Viabilidad Técnica:
 
