@@ -63,8 +63,8 @@ Efectos del Daño Medular:
 ![Gráfica Cuadro Comparativo Ilustrativo Amarillo](https://github.com/user-attachments/assets/cd9a8352-0533-4f20-9deb-d4f1a00bcac2)
 
  ### *PROBLEMÁTICA*
-Dificultades en la recuperación de la independencia de miembros superiores y funcionalidad en paciente con lesión medular cervical tipo C6/C7.
- ### *DIAGRAMA DE ISHIKAWA*
+"El paciente con lesión medular cervical C6/C7 presenta una movilidad reducida en los miembros superiores, particularmente en la acción de pinza trípode, lo que dificulta su capacidad para realizar actividades funcionales y mantener su independencia."
+### *DIAGRAMA DE ISHIKAWA*
 
 ![ishi](https://github.com/user-attachments/assets/2ca2eb2b-83e0-4113-9f86-13bd0c1ce6ac)
 
