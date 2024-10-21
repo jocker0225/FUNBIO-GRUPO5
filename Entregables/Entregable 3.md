@@ -55,13 +55,15 @@ Monitoreo lúdico del progreso: El sistema de retroalimentación del guante ofre
 
 > 4. Viabilidad Técnica:
 
-Para los actuadores en los dedos, se pueden emplear motores eléctricos de bajo peso, como los utilizados en prótesis robóticas. Con la estructura del guante, se utilizará un polímero como es la silicona , que por sus características  son suaves, flexibles y duraderos. Estos materiales dan comodidad al usuario y permiten el uso prolongado sin causar lesiones o incomodidades.
-El guante incorpora microcontroladores como el Arduino, que han sido ampliamente utilizados en dispositivos robóticos y son capaces de procesar señales de los sensores de presión y controlar los actuadores. Estos controladores son accesibles, asequibles y programables .
-Conocimientos necesarios:
-- Control informático: El desarrollo del software que controle los actuadores y sensores.
-- Anatomía básica de la mano y la muñeca, para garantizar que el dispositivo respete la fisiología del paciente.
-- Programación básica de microcontroladores para integrar los componentes electrónicos y sensores del dispositivo.
+Para los actuadores en los dedos, se utilizarán motores eléctricos de bajo peso, como los mini motores N20, que son compactos y eficientes. La estructura del guante se fabricará con un polímero, preferiblemente silicona, que por sus características es suave, flexible y duradero.
+El guante incorporará microcontroladores como el ESP32, que permite conectividad inalámbrica y puede gestionar múltiples sensores y actuadores. El controlador de motores TB6612FNG se usará para controlar los motores, mientras que el regulador de voltaje LM1117-3V3 asegurará un suministro de energía estable. Adicionalmente, el dispositivo sera controlado por un mando portatil que se puede colocar en la silla de ruedas del paciente. En este mando se encuentra el joystick el cual es sensible al movimiento para mayor comodidad del paciente.
+Otros componentes incluyen Velcro para el ajuste y sujeción. Para las poleas, usaremos materiales como el nylon o el polipropileno, que son ligeros y resistentes. Los cables que se utilicen deben ser de acero inoxidable o de nylon con recubrimiento, ya que ofrecen buena resistencia a la tracción y durabilidad.
 
+Conocimientos necesarios:
+
+Control informático: Desarrollo del software que controle los actuadores y sensores.
+Anatomía básica de la mano y la muñeca: Para garantizar que el dispositivo respete la fisiología del paciente.
+Programación básica de microcontroladores: Para integrar los componentes electrónicos y sensores del dispositivo.
 
 
 > ### *COHERENCIA*
@@ -72,24 +74,26 @@ La propuesta del guante es esencial para la rehabilitación de pacientes con les
 
 > Objetivos del proyecto:
 
-General : Recrear un guante electronico con fin de rehabilitación física para paciente con movilidad restrigida de manos por lesiones medulares de tipo C6/C7 o pérdida de función motora posibilitando la reinserción al campo laboral.
+General : Recrear un guante electronico con fin de rehabilitación física para paciente con movilidad restrigida de manos por lesiones medulares de tipo C6/C7 posibilitando la reinserción al campo laboral.
 
 Especifico: 
  - Desarrollar un sensor de fuerza que monitoree el progreso del paciente al medir la tensión aplicada durante la rehabilitación.
- - Implementar un sistema de control que permita al guante activarse mediante el movimiento de la muñeca.
+ - Implementar un sistema que permita modular la fuerza que el dispositivo da al paciente.
  - Evaluar la simplicidad y costo de materiales para elegir los componentes que permitan un diseño eficiente y accesible.
- - Realizar pruebas en pacientes para medir la efectividad del monitoreo y la interacción natural con el guante.
+ - Monitorear el progreso de los pacientes mediante una pagina web.
 
 
 > Justificación del prototipo:
 >
-Nuestra propuesta ofrece varias ventajas en comparación con las soluciones revisadas en el estado del arte. En lugar de utilizar un guante que solo ayude en el agarre de la mano, proponemos implementar un sensor dentro del guante que mida la fuerza. Este sensor es crucial para monitorear el progreso del paciente y obtener un diagnóstico más preciso sobre la mejora en su agarre. Además, nos centraremos en la rehabilitación de los tres dedos más importantes: el pulgar, el índice y el del medio. Estos dedos son fundamentales para realizar actividades básicas, como agarrar un lápiz o un objeto.
-Otra ventaja significativa de nuestra propuesta es el control del guante mediante el movimiento de la muñeca. Dado que el paciente no presenta problemas en esta área, podemos evitar el uso del antebrazo, que es común en otros productos para proporcionar estabilidad. Esta decisión no solo simplifica el diseño y reduce los costos, sino que también se alinea mejor con las capacidades funcionales actuales del paciente.
+Nuestra propuesta presenta varias ventajas en comparación con las soluciones existentes revisadas en el estado del arte. En lugar de ofrecer un guante que simplemente facilite el agarre de la mano en pinza trìpode, proponemos la implementación de un sensor dentro del guante que mida la fuerza de agarre. Este sensor es crucial para monitorear el progreso del paciente y proporcionar un diagnóstico más preciso sobre las mejoras en su capacidad de agarre. Además, nos enfocaremos en la rehabilitación de los tres dedos más importantes: el pulgar, el índice y el medio. Estos dedos son fundamentales para realizar actividades cotidianas, como agarrar un lápiz o manipular objetos.
 
+Otra ventaja significativa de nuestra propuesta es el diseño simplificado de un brazalete que albergará los componentes electrónicos. Este brazalete se ajusta al brazo del paciente con Velcro, lo que permite un uso cómodo y seguro. Dado que el paciente no presenta debilidad en los brazos, no es necesario un dispositivo que proporcione estabilidad, lo que simplifica el diseño y reduce costos. Esta elección se alinea mejor con las capacidades funcionales actuales del paciente, mejorando la usabilidad del dispositivo.
+
+Además, el sistema es intuitivo, funcionando con un joystick sensible al movimiento que se ubica en la silla de ruedas, lo que facilita el acceso y control por parte del paciente. La innovación en nuestra propuesta radica en su capacidad para monitorear el avance del paciente y proporcionar retroalimentación constante, al tiempo que introduce un aspecto de competencia gamificada. Esto crea un entorno donde los pacientes pueden participar en una especie de juego, donde el objetivo es ser el más constante en el uso del dispositivo de rehabilitación, fomentando así el compromiso y la motivación. Los resultados se mostrarán en una página web accesible para el paciente, sus familiares y el personal de salud, lo que fomenta la comunicación y el seguimiento del progreso de manera eficiente.
 
 > Alineación con el problema:
 
-El prototipo está diseñado para personas con lesión medular en las vértebras C6 y C7, con el objetivo de rehabilitar la mano y mejorar su movilidad, específicamente en la flexión y extensión. Este guante electrónico permitirá al paciente realizar actividades básicas de manera más independiente, facilitando tareas como agarrar un lápiz o cualquier objeto necesario para su vida diaria y profesional, como en el caso de un abogado. Además, el sensor de fuerza integrado proporcionará información continua sobre el progreso del paciente, ayudando a monitorear y ajustar el proceso de rehabilitación a lo largo del tiempo.
+El prototipo está diseñado para personas con lesión medular en las vértebras C6 y C7, con el objetivo de rehabilitar los dedos y mejorar su movilidad, específicamente en la fuerza de agarre. Este guante electrónico permitirá al paciente realizar actividades básicas de manera más independiente, facilitando tareas como agarrar un lápiz o cualquier objeto necesario para su vida diaria y profesional, como en el caso de un ingeniero. Además, el sensor de fuerza integrado proporcionará información continua sobre el progreso del paciente, ayudando a monitorear y ajustar el proceso de rehabilitación a lo largo del tiempo.
 
 > Bocetos del producto
 
