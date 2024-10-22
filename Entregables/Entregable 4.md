@@ -1,7 +1,7 @@
 # ENTREGABLE 4
 1. Caja negra:
 
-[![1.png](https://i.postimg.cc/3wGffcqY/1.png)](https://postimg.cc/94WBrJVn)
+[![1.png](https://i.postimg.cc/dtBhrQtK/1.png)](https://postimg.cc/mtPZGsHd)
 
 2. Esquema de Funciones:
 
