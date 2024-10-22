@@ -1,13 +1,13 @@
 # ENTREGABLE 4
 1. Caja negra:
 
-[![1.png](https://i.postimg.cc/PJHqv9gx/1.png)](https://postimg.cc/BLh3dYQ9)
+[![01-Introducci-n-02-Sobre-m-03-El-Equipo-04-fsafas-05-fsafsaf-06.png](https://i.postimg.cc/hPBfwz3m/01-Introducci-n-02-Sobre-m-03-El-Equipo-04-fsafas-05-fsafsaf-06.png)](https://postimg.cc/Dmxv4Zhf)
 
 2. Esquema de Funciones:
 
-[![Captura-de-pantalla-2024-09-25-152743.png](https://i.postimg.cc/sxJY0D52/Captura-de-pantalla-2024-09-25-152743.png)](https://postimg.cc/n9C9XxR8)
+[![1.png](https://i.postimg.cc/PJHqv9gx/1.png)](https://postimg.cc/BLh3dYQ9)
 
-3. Matríz Morfológica:
+4. Matríz Morfológica:
 
 [![1.png](https://i.postimg.cc/4d5THV8V/1.png)](https://postimg.cc/LYnWrYF8)
 
