@@ -23,6 +23,26 @@
 
 [![1.png](https://i.postimg.cc/PJHqv9gx/1.png)](https://postimg.cc/BLh3dYQ9)
 
+- **Regular voltaje:** Se encarga de ajustar el voltaje de la fuente de energía para que sea adecuado y no dañe los componentes del sistema.
+
+- **Alimentar al sistema:** Proporciona energía al sistema para que este pueda empezar a funcionar y preparar los módulos de control y monitoreo.
+
+- **Activar el sistema:** Una vez alimentado, el sistema se activa y está listo para recibir órdenes y ejecutar las acciones necesarias.
+
+- **Enviar señal :** El joystick permite al usuario enviar señales al sistema para abrir o cerrar el guante según sus necesidades.
+
+- **Interpretar el comando:** El sistema lee la señal enviada por el joystick y determina si debe activar la apertura o cierre del guante.
+
+- **Controlar el mecanismo (Activar motor):** Tras recibir la instrucción, se acciona el motor que mueve los dedos del guante para realizar la acción deseada (abrir o cerrar).
+
+- **Medir los datos (Sensor de fuerza):** Este sensor mide la presión o fuerza que el paciente está aplicando y genera datos en tiempo real.
+
+- **Procesar y enviar a la web:** Los datos recopilados del sensor de fuerza se procesan para ser enviados a una página web, donde se puede visualizar el progreso del paciente.
+
+- **Enviar señal al módulo de procesamiento:**  El módulo de procesamiento recibe los datos del sensor y los manda a la web para que los familiares o terapeutas los puedan ver.
+
+
+
 ## 3. Matríz Morfológica:
 
 [![1.png](https://i.postimg.cc/4d5THV8V/1.png)](https://postimg.cc/LYnWrYF8)
