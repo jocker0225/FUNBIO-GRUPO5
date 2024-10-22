@@ -9,8 +9,8 @@
 
 3. Matríz Morfológica:
 
-![1](https://github.com/user-attachments/assets/5d07cc33-9d6c-4c62-8f64-e21a89c5d0b9)
-  
+https://i.postimg.cc/9QGXF5Y4/1.png
+
 4. Tabla de Valoración:
 
 [![imagen-2024-09-25-020753213.png](https://i.postimg.cc/Bv2TWKFB/imagen-2024-09-25-020753213.png)](https://postimg.cc/062MDrcz)
