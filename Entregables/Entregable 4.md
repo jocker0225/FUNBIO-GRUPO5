@@ -9,7 +9,7 @@
 
 3. Matríz Morfológica:
 
-[![1.png](https://i.postimg.cc/1tWwCNgZ/1.png)](https://postimg.cc/wym13McW)
+A
 
 4. Tabla de Valoración:
 
