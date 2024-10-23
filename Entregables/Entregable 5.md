@@ -31,7 +31,11 @@ Ensamblaje de Prototipados:
 [![b7563002-94a7-4098-b39d-620f0603d3b0.jpg](https://i.postimg.cc/tgjjsRB3/b7563002-94a7-4098-b39d-620f0603d3b0.jpg)](https://postimg.cc/ts2ffbQJ)
 
 - Caja de componentes- Prototipo del brazalete
-[url=https://postimg.cc/V59SjVtw][img]https://i.postimg.cc/SQ3Wp0Nn/14b6c3d5-3149-4c81-b07f-aa386d2f4ac3.jpg[/img][/url] [url=https://postimg.cc/XBgp4rWq][img]https://i.postimg.cc/cCpY735R/48d421ca-b165-4513-b2c2-c88471fcd4cc.jpg[/img][/url] [url=https://postimg.cc/JG1sK53k][img]https://i.postimg.cc/WbZ0N9hX/753587b2-2f9f-4956-a40d-2b397d120a95.jpg[/img][/url]
+[![48d421ca-b165-4513-b2c2-c88471fcd4cc.jpg](https://i.postimg.cc/cCpY735R/48d421ca-b165-4513-b2c2-c88471fcd4cc.jpg)](https://postimg.cc/XBgp4rWq)
 
-[url=https://postimg.cc/hfpfYQM3][img]https://i.postimg.cc/DwKL8qGF/f3033a51-c6b0-4410-bde2-8d1e02583237.jpg[/img][/url] 
+[![14b6c3d5-3149-4c81-b07f-aa386d2f4ac3.jpg](https://i.postimg.cc/SQ3Wp0Nn/14b6c3d5-3149-4c81-b07f-aa386d2f4ac3.jpg)](https://postimg.cc/V59SjVtw)
+
+[![753587b2-2f9f-4956-a40d-2b397d120a95.jpg](https://i.postimg.cc/WbZ0N9hX/753587b2-2f9f-4956-a40d-2b397d120a95.jpg)](https://postimg.cc/JG1sK53k)
+
+[![f3033a51-c6b0-4410-bde2-8d1e02583237.jpg](https://i.postimg.cc/DwKL8qGF/f3033a51-c6b0-4410-bde2-8d1e02583237.jpg)](https://postimg.cc/hfpfYQM3)
 
