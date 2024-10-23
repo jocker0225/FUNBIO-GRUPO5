@@ -33,4 +33,3 @@ Ensamblaje de Prototipados:
 - Caja de componentes- Prototipo del brazalete
 [![5401f94a-0f7b-4d87-8be4-027ff25b28fa.jpg](https://i.postimg.cc/MZFJymsK/5401f94a-0f7b-4d87-8be4-027ff25b28fa.jpg)](https://postimg.cc/Z0pQmpt1)
 
-NOTA IMPORTANTE: Cabe recalcar que este MODELAJE 3D no esta realmente conforme con la realidad. Los modelos 3D encontrados no siempre son como en la vida real, este modelaje 3D nos permitira visualizar el como seria el PROTOTIPO.
