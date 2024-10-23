@@ -21,6 +21,7 @@
   - JoyStick HW 504:
  [![joystick.png](https://i.postimg.cc/3Rs2T7sP/joystick.png)](https://postimg.cc/sQJMPFDc)
   - REGULADOR DE VOLTAJE LM1117:
+ 
   [![769fecbf-e385-4d28-bdbe-3caf8fd64d72.jpg](https://i.postimg.cc/mhWRyZ3z/769fecbf-e385-4d28-bdbe-3caf8fd64d72.jpg)](https://postimg.cc/7J9pxkWw)
 
 Ensamblaje de Prototipados:
