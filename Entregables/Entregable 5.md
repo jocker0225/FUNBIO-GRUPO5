@@ -4,6 +4,7 @@
 
 [![Schematic-ENTREGABLE-5-2024-10-22-1.png](https://i.postimg.cc/vTcDNm60/Schematic-ENTREGABLE-5-2024-10-22-1.png)](https://postimg.cc/YLBp4MRF)
 
+- Enlace del EasyEDA: https://u.easyeda.com/join?type=project&key=b749fef642dcfb69bbfef4ee47a99b0b&inviter=05a3f2e1f02e433ba818d0a948b697fe
 3. Impresion 3D (ONSHAPE)
 
 - Enlace del ONSHAPE: https://cad.onshape.com/documents/4f22c5da95f87210dcf05d56/w/b9241e2c94f93ae6299cd84d/e/abee2d3d283bcbfa4fc377e6?renderMode=0&uiState=6706c159cea01d2c934a2fff
