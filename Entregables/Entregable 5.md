@@ -1,8 +1,10 @@
 # ENTREGABLE 5
 
 1. Diseño Electronico (EasyEda)
-[![Schematic-ENTREGABLE-5-2024-10-09.png](https://i.postimg.cc/0yr6VnvW/Schematic-ENTREGABLE-5-2024-10-09.png)](https://postimg.cc/WdLb3Mhg)
-2. Impresion 3D (ONSHAPE)
+
+[![Schematic-ENTREGABLE-5-2024-10-22-1.png](https://i.postimg.cc/vTcDNm60/Schematic-ENTREGABLE-5-2024-10-22-1.png)](https://postimg.cc/YLBp4MRF)
+
+3. Impresion 3D (ONSHAPE)
 
 - Enlace del ONSHAPE: https://cad.onshape.com/documents/4f22c5da95f87210dcf05d56/w/b9241e2c94f93ae6299cd84d/e/abee2d3d283bcbfa4fc377e6?renderMode=0&uiState=6706c159cea01d2c934a2fff
 
