@@ -18,4 +18,4 @@
 ![2](https://github.com/user-attachments/assets/863670a0-08cd-497d-947b-96e8b737c184)
 [![1234.png](https://i.postimg.cc/xTsGtnSM/1234.png)](https://postimg.cc/0bwJNgjy)
 [![SENSOR-DE-FUERZA.png](https://i.postimg.cc/sgs8ZpRK/SENSOR-DE-FUERZA.png)](https://postimg.cc/6ybzk4qG)
-[JOYSTICK.pdf](https://github.com/user-attachments/files/17577647/JOYSTICK.pdf)
+[![JOYSTICK.png](https://i.postimg.cc/x1wdPYKT/JOYSTICK.png)](https://postimg.cc/k2y9n01k)
