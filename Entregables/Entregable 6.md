@@ -1,6 +1,6 @@
 ## 1.-  Hardware electronico
 
-https://github.com/user-attachments/assets/0630729d-d290-44e2-b21f-8d4acae8c182
+[https://github.com/user-attachments/assets/0630729d-d290-44e2-b21f-8d4acae8c182](https://github.com/user-attachments/assets/f868238d-01ec-4941-ae04-1787e2c996ca)
 
 
 
