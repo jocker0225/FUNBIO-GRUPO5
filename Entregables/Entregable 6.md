@@ -17,3 +17,4 @@
 ![1](https://github.com/user-attachments/assets/ad3846bd-c6a1-460b-af9d-6a1d808d7dae)
 ![2](https://github.com/user-attachments/assets/863670a0-08cd-497d-947b-96e8b737c184)
 [![1234.png](https://i.postimg.cc/xTsGtnSM/1234.png)](https://postimg.cc/0bwJNgjy)
+[![SENSOR-DE-FUERZA.png](https://i.postimg.cc/sgs8ZpRK/SENSOR-DE-FUERZA.png)](https://postimg.cc/6ybzk4qG)
