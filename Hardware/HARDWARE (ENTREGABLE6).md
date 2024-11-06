@@ -1,29 +1,29 @@
-// Definición de pines
-const int AIN1 = 16; // Control de dirección 1
-const int AIN2 = 4;  // Control de dirección 2
-const int PWMA = 17; // Control de velocidad (PWM)
-const int joystickY = 34; // Pin analógico del joystick
+-// Definición de pines
+-const int AIN1 = 16; // Control de dirección 1
+-const int AIN2 = 4;  // Control de dirección 2
+-const int PWMA = 17; // Control de velocidad (PWM)
+-const int joystickY = 34; // Pin analógico del joystick
 
-// Rango de umbral
-const int threshold = 1000; // Ajusta este valor según sea necesario
+-// Rango de umbral
+-const int threshold = 1000; // Ajusta este valor según sea necesario
 
-void setup() {
-  // Inicializa los pines como salidas
-  pinMode(AIN1, OUTPUT);
-  pinMode(AIN2, OUTPUT);
-  pinMode(PWMA, OUTPUT);
+-void setup() {
+ - // Inicializa los pines como salidas
+ - pinMode(AIN1, OUTPUT);
+ - pinMode(AIN2, OUTPUT);
+ - pinMode(PWMA, OUTPUT);
   
-  // Detener el motor al inicio
-  stopMotor();
-}
+  -// Detener el motor al inicio
+ - stopMotor();
+-}
 
-void loop() {
-  int joystickValue = analogRead(joystickY); // Lee el valor del joystick
+-void loop() {
+  -int joystickValue = analogRead(joystickY); // Lee el valor del joystick
 
-  // Controlar el motor según el valor del joystick
-  if (joystickValue > (2048 + threshold)) { // Mueve hacia arriba
-    rotateForward();
-  } 
+  -// Controlar el motor según el valor del joystick
+  -if (joystickValue > (2048 + threshold)) { // Mueve hacia arriba
+  -  rotateForward();
+ - } 
   else if (joystickValue < (2048 - threshold)) { // Mueve hacia abajo
     rotateBackward();
   } 
