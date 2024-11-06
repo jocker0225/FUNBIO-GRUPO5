@@ -1,6 +1,7 @@
 ## 1.-  Hardware electronico
 
 -AVANCE ELECTRONICO 2
+
 https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 
 
