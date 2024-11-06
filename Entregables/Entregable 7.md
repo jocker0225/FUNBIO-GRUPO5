@@ -4,7 +4,9 @@
 
 https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 
+# REFERENCIA DE LA PAGINA WEB:
 
+[![Captura-de-pantalla-2024-11-06-180043.png](https://i.postimg.cc/L4YgX8N2/Captura-de-pantalla-2024-11-06-180043.png)](https://postimg.cc/c6WLkZpb)
 
 ## 2.- Diagrama de flujo
 [![Presentaci-n-Proyecto-Trabajo-Creativa-Profesional-Azul.png](https://i.postimg.cc/gcVPhx5D/Presentaci-n-Proyecto-Trabajo-Creativa-Profesional-Azul.png)](https://postimg.cc/YjCVKCtG)
