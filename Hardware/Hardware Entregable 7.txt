@@ -1,0 +1,119 @@
+#include <WiFi.h>
+#include <WebServer.h>
+
+// Configuración del Wi-Fi
+const char* ssid = "emma";       // Nombre del punto de acceso
+const char* password = "lisbethr"; // Contraseña del punto de acceso
+
+// Pines del sensor y del motor
+const int sensorPin = 34;         // Pin de lectura para el FSR402
+const int PWMPin = 32;            // Pin PWM para control de velocidad del motor
+const int AIN1 = 33;              // Pin de dirección 1
+const int AIN2 = 25;              // Pin de dirección 2
+
+// Parámetros de control
+const int umbral = 500;           // Valor de presión mínimo para activar el motor
+const int velocidad = 255;        // Velocidad del motor (0-255 para PWM)
+
+unsigned long tiempoInicio = 0;   // Tiempo de inicio cuando se presiona el sensor
+unsigned long tiempoPresionado = 0; // Tiempo total que el motor ha girado en un sentido
+bool sensorPresionado = false;    // Estado del sensor (presionado o no)
+
+// Configuración del servidor web
+WebServer server(80);
+
+// Variables para el promedio
+long sumatorio = 0;
+int contador = 0;
+
+// Función para calcular el promedio y mostrarlo en la página web
+void handleRoot() {
+  int promedio = (contador > 0) ? (sumatorio / contador) : 0;
+
+  // Página web
+  String html = "<html><body>";
+  html += "<h1>Promedio de Fuerza del Sensor</h1>";
+  html += "<p>Promedio del Sensor de Fuerza: " + String(promedio) + "</p>";
+  html += "</body></html>";
+
+  server.send(200, "text/html", html);
+}
+
+void setup() {
+  // Configura los pines de motor y sensor
+  pinMode(sensorPin, INPUT);
+  pinMode(PWMPin, OUTPUT);
+  pinMode(AIN1, OUTPUT);
+  pinMode(AIN2, OUTPUT);
+
+  // Inicializa el puerto serial para depuración
+  Serial.begin(115200);
+
+  // Conectar a la red Wi-Fi
+  Serial.print("Conectando a Wi-Fi: ");
+  Serial.println(ssid);
+  WiFi.begin(ssid, password);
+  
+  int intentos = 0;  // Contador de intentos de conexión
+  while (WiFi.status() != WL_CONNECTED && intentos < 100) {
+    delay(500);
+    Serial.print(".");
+    intentos++;
+  }
+  
+  if (WiFi.status() == WL_CONNECTED) {
+    Serial.println("\nConectado a Wi-Fi");
+    Serial.print("Dirección IP: ");
+    Serial.println(WiFi.localIP());
+
+    // Configurar el servidor web
+    server.on("/", handleRoot);
+    server.begin();
+    Serial.println("Servidor web iniciado");
+  } else {
+    Serial.println("\nNo se pudo conectar a Wi-Fi.");
+  }
+}
+
+void loop() {
+  int valorSensor = analogRead(sensorPin); // Lee el valor del sensor
+
+  if (valorSensor > umbral) {
+    sumatorio += valorSensor;               // Suma para el promedio
+    contador++;                              // Incrementa el contador de lecturas
+    Serial.print("Valor del sensor: ");      // Muestra solo valores sobre el umbral
+    Serial.println(valorSensor);
+
+    // Si el sensor está presionado, inicia o continúa el giro en sentido horario
+    if (!sensorPresionado) {
+      sensorPresionado = true;
+      tiempoInicio = millis();  // Marca el tiempo de inicio al comenzar a presionar
+    }
+    
+    // Configura el motor para girar en sentido horario
+    digitalWrite(AIN1, HIGH);
+    digitalWrite(AIN2, LOW);
+    analogWrite(PWMPin, velocidad);
+  } else if (sensorPresionado) {
+    // Si se deja de presionar, detiene el motor y calcula el tiempo que estuvo girando
+    sensorPresionado = false;
+    analogWrite(PWMPin, 0);             // Detén el motor
+    tiempoPresionado = millis() - tiempoInicio; // Tiempo total girando en sentido horario
+
+    delay(2000); // Espera de 2 segundos
+
+    // Gira el motor en sentido antihorario por el mismo tiempo que estuvo girando en sentido horario
+    digitalWrite(AIN1, LOW);
+    digitalWrite(AIN2, HIGH);
+    analogWrite(PWMPin, velocidad);
+    delay(tiempoPresionado);             // Mantiene el giro en sentido contrario por el mismo tiempo
+
+    // Detiene el motor nuevamente
+    analogWrite(PWMPin, 0);
+  }
+
+  // Procesar peticiones del servidor web
+  server.handleClient();
+  
+  delay(10); // Pequeña pausa para estabilizar la lectura
+}
