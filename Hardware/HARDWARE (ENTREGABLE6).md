@@ -9,9 +9,9 @@
 
 void setup() {
   // Inicializa los pines como salidas
- - pinMode(AIN1, OUTPUT);
- - pinMode(AIN2, OUTPUT);
- - pinMode(PWMA, OUTPUT);
+  -pinMode(AIN1, OUTPUT);
+  -pinMode(AIN2, OUTPUT);
+  -pinMode(PWMA, OUTPUT);
   
   // Detener el motor al inicio
   -stopMotor();
