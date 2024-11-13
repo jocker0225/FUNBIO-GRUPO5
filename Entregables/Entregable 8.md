@@ -19,17 +19,5 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 [![SENSOR-DE-FUERZA.png](https://i.postimg.cc/sgs8ZpRK/SENSOR-DE-FUERZA.png)](https://postimg.cc/6ybzk4qG)
 
 # RETROALIMENTACIÓN
-
-### Apariencia y Diseño:
-Si, con los que respecta a las dos cajas prinicipales (caja de motores y caja principal)
-Respecto al tamaño se esperaría que se reduzca.
-Respecto al color BLANCO se ve atractivo.
-### Ergonomía y Comodidad:
-Una de las principales temas a mejorar es el tipo de material, pues se espera que sea TPU el guante y los cajas de PLA.
-Respecto a la ubicación se espera que el dispositivo sea un mecanismo automatico, es decir el paciente puede controlarlo a su merced.
-### Comprensión y Facilidad de Uso:
-Por el momento se entiende que e sun mecanismo de tipo tripode para un sujetacion en pinza con solo con 3 dedos (medio, indice y pulgar).
-Si porque ya trabaje con algunos dispositivos parecidos.
-### Funcionalidad y Potenciales Problemas:
-Respecto al tipo de movimiento que hace el pulgar, distinto a los demas dedos, existe la correcion del tipo de movimiento con lo que respecta a la muñeca.
-En lo posible se espra que el tamaño de las cajas se reduzca los mas posible.
+[![1.jpg](https://i.postimg.cc/XvRnjp3Y/1.jpg)](https://postimg.cc/DWP95f89)
+[![2.jpg](https://i.postimg.cc/508b6bNq/2.jpg)](https://postimg.cc/XGNTPM5p)
