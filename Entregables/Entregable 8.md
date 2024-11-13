@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 
 # Cajas
 
-[![1a.jpg](https://i.postimg.cc/k5zW7FBR/1a.jpg)](https://postimg.cc/06GzfSG9)
-[![2a.jpg](https://i.postimg.cc/m2BCZr2j/2a.jpg)](https://postimg.cc/Z0sCV4Nv)
+[![1a.jpg](https://i.postimg.cc/mrsGJKSP/1a.jpg)](https://postimg.cc/cvXj892W)
+[![2a.jpg](https://i.postimg.cc/zBDYXW65/2a.jpg)](https://postimg.cc/sBLNTB30)
 
 # Dedales
 
