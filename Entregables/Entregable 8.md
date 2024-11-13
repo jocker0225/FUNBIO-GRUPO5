@@ -12,11 +12,18 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 [![entregable-8.jpg](https://i.postimg.cc/W31hZdC6/entregable-8.jpg)](https://postimg.cc/4KjfkxJm)
 
 
-## 3.- Funcionalidad
-![1](https://github.com/user-attachments/assets/ad3846bd-c6a1-460b-af9d-6a1d808d7dae)
-![2](https://github.com/user-attachments/assets/863670a0-08cd-497d-947b-96e8b737c184)
-[![1234.png](https://i.postimg.cc/xTsGtnSM/1234.png)](https://postimg.cc/0bwJNgjy)
-[![SENSOR-DE-FUERZA.png](https://i.postimg.cc/sgs8ZpRK/SENSOR-DE-FUERZA.png)](https://postimg.cc/6ybzk4qG)
+## 3.-DISEÑO 3D
+
+# Cajas
+
+[![1a.jpg](https://i.postimg.cc/k5zW7FBR/1a.jpg)](https://postimg.cc/06GzfSG9)
+[![2a.jpg](https://i.postimg.cc/m2BCZr2j/2a.jpg)](https://postimg.cc/Z0sCV4Nv)
+
+# Dedales
+
+[![3a.jpg](https://i.postimg.cc/6p1vhLVb/3a.jpg)](https://postimg.cc/hXTvDm5V)
+[![4a.jpg](https://i.postimg.cc/TPLWNLCd/4a.jpg)](https://postimg.cc/SX4sJKB3)
+
 
 # RETROALIMENTACIÓN
 ha logrado superar varios obstáculos en el diseño del guante electrónico. Aunque tuvimos retos técnicos y dificultades para obtener algunos materiales, seguimos avanzando y ya conseguimos los dedales y el cockup, que son piezas clave para nuestro proyecto. Con estos elementos, podemos asegurar un buen ajuste y precisión en el guante, lo cual es fundamental para que cumpla su objetivo.
