@@ -10,7 +10,7 @@
 
 
 ## 2.- Diagrama de flujo
-[![Presentaci-n-Proyecto-Trabajo-Creativa-Profesional-Azul.png](https://i.postimg.cc/gcVPhx5D/Presentaci-n-Proyecto-Trabajo-Creativa-Profesional-Azul.png)](https://postimg.cc/YjCVKCtG)
+[![entregable-7.jpg](https://i.postimg.cc/Pr9YkQ9G/entregable-7.jpg)](https://postimg.cc/qzczsypQ)
 
 
 ## 3.- Funcionalidad
