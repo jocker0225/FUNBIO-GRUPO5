@@ -25,9 +25,18 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 [![4a.jpg](https://i.postimg.cc/TPLWNLCd/4a.jpg)](https://postimg.cc/SX4sJKB3)
 
 ## 4.-PLANOS 2D
+# Planos de la caja que contiene dos motores
 ![Drawing 1 - Caja motores (1) (1)_page-0001](https://github.com/user-attachments/assets/ec9013e8-3405-4437-95d7-df89dad5a76c)
 ![Drawing 2 - Tapa de caja de los motores (1) (1)_page-0001](https://github.com/user-attachments/assets/dbb250c7-292f-4b90-8d41-1df1175fd4df)
 ![Drawing 4 - Polea (1) (1)_page-0001](https://github.com/user-attachments/assets/348d9fbb-550b-4ba1-b63f-c5e3e62a9a62)
+
+# Planos de la caja del arduino
+![Drawing 3 - Caja 2_page-0001](https://github.com/user-attachments/assets/41c32b2d-1de1-48f5-990f-7d602c5560d4)
+![Drawing 3 - TAPA Caja 2_page-0001](https://github.com/user-attachments/assets/40cec502-710b-461b-9c8a-f23a11819170)
+
+# Planos de los dedales
+![Drawing 5 - DEDAL PULGAR_page-0001](https://github.com/user-attachments/assets/3d4bedd1-931a-4867-a08f-bf892c53826f)
+![Drawing 6 - DEDAL 2_page-0001](https://github.com/user-attachments/assets/e872cfd1-a400-422b-bbea-b4b33739156c)
 
 
 # RETROALIMENTACIÓN
