@@ -19,5 +19,7 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 [![SENSOR-DE-FUERZA.png](https://i.postimg.cc/sgs8ZpRK/SENSOR-DE-FUERZA.png)](https://postimg.cc/6ybzk4qG)
 
 # RETROALIMENTACIÓN
+ha logrado superar varios obstáculos en el diseño del guante electrónico. Aunque tuvimos retos técnicos y dificultades para obtener algunos materiales, seguimos avanzando y ya conseguimos los dedales y el cockup, que son piezas clave para nuestro proyecto. Con estos elementos, podemos asegurar un buen ajuste y precisión en el guante, lo cual es fundamental para que cumpla su objetivo.
+
 [![1.jpg](https://i.postimg.cc/XvRnjp3Y/1.jpg)](https://postimg.cc/DWP95f89)
 [![2.jpg](https://i.postimg.cc/508b6bNq/2.jpg)](https://postimg.cc/XGNTPM5p)
