@@ -5,3 +5,6 @@
 
 ## Verificación del diseño del Hardware
 [![ama.png](https://i.postimg.cc/ydvsVSsJ/ama.png)](https://postimg.cc/LYYrD5qR)
+
+
+![Documento A4 Cuadro Comparativo Enfoques de Probabilidad Estadística Serio Verde Azulado](https://github.com/user-attachments/assets/6403f727-b2c4-4dac-a26d-66cb42c21c01)
