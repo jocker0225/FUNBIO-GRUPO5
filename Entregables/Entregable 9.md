@@ -7,4 +7,4 @@
 [![ama.png](https://i.postimg.cc/ydvsVSsJ/ama.png)](https://postimg.cc/LYYrD5qR)
 
 
-![Documento A4 Cuadro Comparativo Enfoques de Probabilidad Estadística Serio Verde Azulado](https://github.com/user-attachments/assets/6403f727-b2c4-4dac-a26d-66cb42c21c01)
+![Documento A4 Cuadro Comparativo Enfoques de Probabilidad Estadística Serio Verde Azulado (1)](https://github.com/user-attachments/assets/84c573fc-fbb6-4108-8954-3c987130d48b)
