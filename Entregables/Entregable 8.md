@@ -20,8 +20,8 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 
 # Dedales
 
-[![3a.jpg](https://i.postimg.cc/6p1vhLVb/3a.jpg)](https://postimg.cc/hXTvDm5V)
-[![4a.jpg](https://i.postimg.cc/TPLWNLCd/4a.jpg)](https://postimg.cc/SX4sJKB3)
+![image](https://github.com/user-attachments/assets/07fbf885-900e-4265-bf76-1460ab9fa5e1)
+![image](https://github.com/user-attachments/assets/8b2a0684-dddd-49b7-8d63-fda06e76d7d6)
 
 ## 4.-PLANOS 2D
 # Planos de la caja que contiene dos motores
@@ -34,9 +34,8 @@ https://github.com/user-attachments/assets/cfa82109-75db-4c3b-bfe1-d4f5ca82bed6
 ![Drawing 3 - TAPA Caja 2](https://github.com/user-attachments/assets/c90ceba4-6dd0-414e-b60a-dfe0cc7182fe)
 
 # Planos de los dedales
-![Drawing 5 - DEDAL PULGAR_page-0001](https://github.com/user-attachments/assets/3d4bedd1-931a-4867-a08f-bf892c53826f)
-![Drawing 6 - DEDAL 2_page-0001](https://github.com/user-attachments/assets/e872cfd1-a400-422b-bbea-b4b33739156c)
-
+![Drawing 5-DEDAL ÍNDICE Y MEDIO FINAL](https://github.com/user-attachments/assets/aba16847-c167-4671-8667-b20c57fe8751)
+![Drawing 5-DEDAL DEL PULGAR FINAL](https://github.com/user-attachments/assets/2dc1a2dc-d9fe-4a64-807a-21d8ee293091)
 
 # RETROALIMENTACIÓN
 Hemos logrado superar varios obstáculos en el diseño del guante electrónico. Aunque tuvimos retos técnicos y dificultades para obtener algunos materiales, seguimos avanzando y ya conseguimos los dedales y el cockup, que son piezas clave para nuestro proyecto. Con estos elementos, podemos asegurar un buen ajuste y precisión en el guante, lo cual es fundamental para que cumpla su objetivo.
