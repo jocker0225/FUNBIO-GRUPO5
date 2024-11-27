@@ -1,5 +1,5 @@
 LINK PRESENTACION HITO 2:
-https://www.canva.com/design/DAGXo65Skus/UejG2CbytF8Q9lagJAFdFw/edit?utm_content=DAGXo65Skus&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGXpX6y0xk/d2-A_1u1RjX7pc0BeegwDQ/edit?utm_content=DAGXpX6y0xk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 VIDEO DEMOSTRACION:
 
